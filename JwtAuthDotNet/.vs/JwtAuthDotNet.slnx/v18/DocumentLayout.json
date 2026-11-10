@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Web-Dev\\Backend\\ASP.Net Core\\JwtAuthDotNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6811E1E1-904E-E042-392D-28E9F0C427A1}|JwtAuthDotNet\\JwtAuthDotNet.csproj|d:\\web-dev\\backend\\asp.net core\\jwtauthdotnet\\jwtauthdotnet\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6811E1E1-904E-E042-392D-28E9F0C427A1}|JwtAuthDotNet\\JwtAuthDotNet.csproj|solutionrelative:jwtauthdotnet\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6811E1E1-904E-E042-392D-28E9F0C427A1}|JwtAuthDotNet\\JwtAuthDotNet.csproj|d:\\web-dev\\backend\\asp.net core\\jwtauthdotnet\\jwtauthdotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6811E1E1-904E-E042-392D-28E9F0C427A1}|JwtAuthDotNet\\JwtAuthDotNet.csproj|solutionrelative:jwtauthdotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6811E1E1-904E-E042-392D-28E9F0C427A1}|JwtAuthDotNet\\JwtAuthDotNet.csproj|d:\\web-dev\\backend\\asp.net core\\jwtauthdotnet\\jwtauthdotnet\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6811E1E1-904E-E042-392D-28E9F0C427A1}|JwtAuthDotNet\\JwtAuthDotNet.csproj|solutionrelative:jwtauthdotnet\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6811E1E1-904E-E042-392D-28E9F0C427A1}|JwtAuthDotNet\\JwtAuthDotNet.csproj|d:\\web-dev\\backend\\asp.net core\\jwtauthdotnet\\jwtauthdotnet\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6811E1E1-904E-E042-392D-28E9F0C427A1}|JwtAuthDotNet\\JwtAuthDotNet.csproj|solutionrelative:jwtauthdotnet\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6811E1E1-904E-E042-392D-28E9F0C427A1}|JwtAuthDotNet\\JwtAuthDotNet.csproj|d:\\web-dev\\backend\\asp.net core\\jwtauthdotnet\\jwtauthdotnet\\jwtauthdotnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6811E1E1-904E-E042-392D-28E9F0C427A1}|JwtAuthDotNet\\JwtAuthDotNet.csproj|solutionrelative:jwtauthdotnet\\jwtauthdotnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Web-Dev\\Backend\\ASP.Net Core\\JwtAuthDotNet\\JwtAuthDotNet\\Program.cs",
+              "RelativeDocumentMoniker": "JwtAuthDotNet\\Program.cs",
+              "ToolTip": "D:\\Web-Dev\\Backend\\ASP.Net Core\\JwtAuthDotNet\\JwtAuthDotNet\\Program.cs",
+              "RelativeToolTip": "JwtAuthDotNet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T15:18:42.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Web-Dev\\Backend\\ASP.Net Core\\JwtAuthDotNet\\JwtAuthDotNet\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JwtAuthDotNet\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Web-Dev\\Backend\\ASP.Net Core\\JwtAuthDotNet\\JwtAuthDotNet\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JwtAuthDotNet\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T15:05:40.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Web-Dev\\Backend\\ASP.Net Core\\JwtAuthDotNet\\JwtAuthDotNet\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "JwtAuthDotNet\\Entities\\User.cs",
+              "ToolTip": "D:\\Web-Dev\\Backend\\ASP.Net Core\\JwtAuthDotNet\\JwtAuthDotNet\\Entities\\User.cs",
+              "RelativeToolTip": "JwtAuthDotNet\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T14:59:15.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\Web-Dev\\Backend\\ASP.Net Core\\JwtAuthDotNet\\JwtAuthDotNet\\Models\\UserDTO.cs",
+              "RelativeDocumentMoniker": "JwtAuthDotNet\\Models\\UserDTO.cs",
+              "ToolTip": "D:\\Web-Dev\\Backend\\ASP.Net Core\\JwtAuthDotNet\\JwtAuthDotNet\\Models\\UserDTO.cs",
+              "RelativeToolTip": "JwtAuthDotNet\\Models\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T15:03:50.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtAuthDotNet.csproj",
+              "DocumentMoniker": "D:\\Web-Dev\\Backend\\ASP.Net Core\\JwtAuthDotNet\\JwtAuthDotNet\\JwtAuthDotNet.csproj",
+              "RelativeDocumentMoniker": "JwtAuthDotNet\\JwtAuthDotNet.csproj",
+              "ToolTip": "D:\\Web-Dev\\Backend\\ASP.Net Core\\JwtAuthDotNet\\JwtAuthDotNet\\JwtAuthDotNet.csproj",
+              "RelativeToolTip": "JwtAuthDotNet\\JwtAuthDotNet.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-04T15:04:38.888Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

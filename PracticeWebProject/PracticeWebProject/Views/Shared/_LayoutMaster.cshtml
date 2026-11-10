@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <
+        <link href="~/bootstrap/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <header class="container-fluid">
+            <div class="logo">
+                <h1>Logo</h1>
+            </div>
+            <div class="menu">
+                <ul>
+                    <li> <a href="/guest/home"> Home </a></li>
+                    <li> <a href="/guest/aboutus"> About Us </a></li>
+                    <li> <a href="/guest/services"> Services </a></li>
+                    <li> <a href="/guest/gallery"> Gallery </a></li>
+                    <li> <a href="/guest/contactus"> Contact Us</a></li>
+                </ul>
+            </div>
+
+
+    </header>
+   
+    <div id="middlepart">
+        @RenderBody()
+    </div>
+    
+    <footer>
+            <div class="footerpart">
+                <h3>About Us</h3>
+            </div>
+            <div class="footerpart">
+                <h3>Main Menu</h3>
+            </div>
+            <div class="footerpart">
+                <h3>Social Icons</h3>
+            </div>
+
+    </footer>
+    <script src="~/bootstrap/bootstrap.bundle.min.js"></script>
+</body>
+</html>

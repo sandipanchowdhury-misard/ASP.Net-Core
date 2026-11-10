@@ -1,0 +1,15 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using PracticeWebProjectII.Models;
+
+namespace PracticeWebProjectII.Controllers
+{
+    public class SICalcController : Controller
+    {
+        [HttpGet]
+        public IActionResult Index()
+        {
+            SI obj = new SI();
+            return View(obj);
+        }
+    }
+}

@@ -1,0 +1,35 @@
+@page
+@model PracticeWebProject.Pages.SI.CreateModel
+@{
+    ViewData["Title"] = "Simple Interest - Create";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form method="post">
+    <div class="mb-3">
+        <label asp-for="Input.Principal" class="form-label"></label>
+        <input asp-for="Input.Principal" class="form-control" />
+        <span asp-validation-for="Input.Principal" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Input.Rate" class="form-label"></label>
+        <input asp-for="Input.Rate" class="form-control" />
+        <span asp-validation-for="Input.Rate" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Input.Time" class="form-label"></label>
+        <input asp-for="Input.Time" class="form-control" />
+        <span asp-validation-for="Input.Time" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Calculate</button>
+</form>
+
+@if (ViewData["Result"] != null)
+{
+    <div class="alert alert-success mt-3">Result: @ViewData["Result"]</div>
+}
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
